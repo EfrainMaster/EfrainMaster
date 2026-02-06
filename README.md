@@ -1,4 +1,4 @@
-# Hola, soy Efraín 👋
+# Hola, soy Efrain 👋
 
 Soy desarrollador con experiencia en lógica de programación y diseño de interfaces. Después de un tiempo, volví a meterle con todo al código para actualizarme y certificar mis conocimientos.
 
